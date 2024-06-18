@@ -1,0 +1,19 @@
+{
+  "name": "twitter-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "readline-sync": "^1.4.10",
+    "redis": "^4.6.14",
+    "twitter": "^1.7.1",
+    "twitter-api-v2": "^1.17.1"
+  }
+}

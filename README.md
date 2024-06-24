@@ -8,3 +8,6 @@
     TWITTER_ACCESS_TOKEN_SECRET=#YOUR_API_CONSUMER_SECRET<br>
     TWITTER_BEARER_TOKEN=#YOUR_API_BEARER_TOKEN<br>
     REDIS_URL=#YOUR_OWN_URL_REDIS_DATABASE<br>
+    PORT=#YOUR_OWN_PORT<br>
+4. Install NodeJS and NPM if you haven't installed in your own PC. Link tutorial: https://kinsta.com/blog/how-to-install-node-js/
+5. Run `node index.js` in command-line. Then, your application is run in port 4000 or your defined port in `.env` file
